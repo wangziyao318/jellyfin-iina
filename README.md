@@ -1,6 +1,6 @@
 # jellyfin-iina
 
-Play jellyfin stream URL on IINA
+Play jellyfin stream URL on IINA, inspired by [kylelv2000/jellyfin_externalplayer_iina](https://github.com/kylelv2000/jellyfin_externalplayer_iina)
 
 Assume jellyfin server is installed on linux, then we locate the `web` folder and put `iina.js` in it.
 
